@@ -1,2 +1,2 @@
-# The-Battle-of-Neighborhoods-Week-1
-Capstone Project - The Battle of Neighborhoods (Week 1)
+# The-Battle-of-Neighborhoods
+Capstone Project - The Battle of Neighborhoods (Weeks 1 - 2)
